@@ -1,0 +1,8 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+.wikipedia_scraper/
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+logs/
+.ipynb_checkpoints/
